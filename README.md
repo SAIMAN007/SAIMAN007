@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Machine learning and data analytics
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...Real time projects on ML
-- 📫 How to reach me ...
+- 📫 How to reach me ... saimanideep070@gmail.com
 
 <!---
 SAIMAN007/SAIMAN007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
